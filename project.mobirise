@@ -12,9 +12,9 @@
         "infoColor": "#136ee2",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "titleFont": "Droid Serif",
+        "subtitleFont": "Droid Sans",
+        "textFont": "Droid Serif",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -44,13 +44,15 @@
               "color": "#fff"
             },
             "H2": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "text-align": "center"
             },
             "P": {
               "font-size": "19px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -101,7 +103,7 @@
                 "showTitle": true,
                 "title": "Święte Słowa",
                 "showText": true,
-                "text": "Święte słowa jest to usuga stworzona............................opisz co to .....",
+                "text": "Święte słowa jest to usuga stworzona............................opisz co to .....-----wujek wyprostuj na śtodek&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zapisz się</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Święte słowa</a>"
               },
@@ -178,6 +180,9 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#f5e12a!important"
+            },
+            ".btn": {
+              "font-size": "13px"
             }
           },
           "_name": "ext.menu",
@@ -236,7 +241,7 @@
             "showMeta": true
           },
           "title": "MODLITWA O UPROSZENIE ŁASK<div>PRZEZ WSTAWIENNICTWO ŚWIĘTEJ SIOSTRY FAUSTYNY</div>",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": ""
         },
         {
           "_tags": [
@@ -269,7 +274,7 @@
             "showMeta": true
           },
           "title": "LITANIA DO ŚWIĘTEJ FAUSTYNY",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": ""
         },
         {
           "_tags": [
@@ -305,26 +310,6 @@
           "text": "<div><br></div><div><br></div><div><br></div><div><br></div><div>Kyrie eleison, Christe eleison, Kyrie eleison,</div><div>Chryste usłysz nas, Chryste wysłuchaj nas.</div><div>Ojcze z nieba, Boże - zmiłuj się nad nami.</div><div>Synu Odkupicielu świata, Boże - zmiłuj się nad nami.</div><div>Duchu Święty, Boże - zmiłuj się nad nami.</div><div>Święta Trójco, Jedyny Boże - zmiłuj się nad nami.</div><div>Święta Maryjo - módl się za nami.</div><div>Święta Faustyno, żywy świadku miłosierdzia Ojca niebieskiego - módl się za nami.</div><div>Święta Faustyno, pokorna służebnico Jezusa - Wcielonego Miłosierdzia</div><div>Święta Faustyno, posłuszne narzędzie Ducha Pocieszyciela</div><div>Święta Faustyno, ufna córko Matki Miłosierdzia</div><div>Święta Faustyno, powiernico orędzia o miłosierdziu Bożym</div><div>Święta Faustyno, wierna sekretarko słów Jezusa Miłosiernego</div><div>Święta Faustyno, wielka apostołko miłosierdzia Bożego</div><div>Święta Faustyno, szafarko Boga bogatego w miłosierdzie</div><div>Święta Faustyno, darze Boga dla całego świata</div><div>Święta Faustyno, dostrzegająca dobroć Stwórcy w każdym stworzeniu</div><div>Święta Faustyno, wielbiąca Boga w tajemnicy Wcielenia</div><div>Święta Faustyno, uczestniczko męki i zmartwychwstania Pana</div><div>Święta Faustyno, przewodniczko na drodze Jezusowego krzyża</div><div>Święta Faustyno, spotykająca się z Jezusem w sakramentach świętych</div><div>Święta Faustyno, zjednoczona z Oblubieńcem w swej duszy</div><div>Święta Faustyno, olśniona miłosierdziem Boga w życiu Maryi</div><div>Święta Faustyno, miłująca Kościół - Mistyczne Ciało Chrystusa</div><div>Święta Faustyno, mocna prawdziwą wiarą</div><div>Święta Faustyno, wytrwała niezłomną nadzieją</div><div>Święta Faustyno, płonąca gorącą miłością</div><div>Święta Faustyno, piękna prawdziwą pokorą</div><div>Święta Faustyno, prosta dziecięcą ufnością</div><div>Święta Faustyno, wzorze pełnienia woli Bożej</div><div>Święta Faustyno, przykładzie ofiarnej służby</div><div>Święta Faustyno, opiekunko troskliwa dusz kapłańskich i zakonnych</div><div>Święta Faustyno, ochrono przed złem ludzi młodych i dzieci</div><div>Święta Faustyno, nadziejo upadających i zrozpaczonych</div><div>Święta Faustyno, umocnienie chorych i cierpiących</div><div>Święta Faustyno, wspierająca ufność w sercach konających</div><div>Święta Faustyno, ofiarująca się za grzeszników</div><div>Święta Faustyno, zatroskana o zbawienie wszystkich ludzi</div><div>Święta Faustyno, orędowniczko cierpiących w czyśćcu</div><div>Święta Faustyno, prosząca o miłosierdzie Boga dla całego świata</div><div><br></div><div><br></div><div>Baranku Boży, który gładzisz grzechy świata - przepuść nam, Panie.</div><div>Baranku Boży, który gładzisz grzechy świata - wysłuchaj nas. Panie.</div><div>Baranku Boży, który gładzisz grzechy świata - zmiłuj się nad nami.</div><div><br></div><div><br></div><div>Módl się za nami święta Faustyno.</div><div>Abyśmy życiem i słowem głosili światu orędzie Miłosierdzia.&nbsp;</div><div><br></div><div>Módlmy się:&nbsp;</div><div>Miłosierny Boże, przyjmij nasze dziękczynienie za dar życia i posłannictwa świętej Faustyny i za jej wstawiennictwem pomóż nam wzrastać w postawie ufności wobec Ciebie i miłosierdzia względem bliźnich. Przez Chrystusa, Pana naszego.&nbsp;</div><div>Amen</div>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
-          },
-          "title": "&nbsp;Koronka do Miłosierdzia Bożego",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -347,7 +332,7 @@
               "font-size": "17px"
             },
             ".mbr-section-text B": {
-              "color": "#cccccc"
+              "color": "#3d8eb9"
             },
             ".mbr-section-title": {
               "color": "#efefef"
@@ -790,6 +775,26 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "&nbsp;Koronka do Miłosierdzia Bożego",
+          "meta": "By John Smith posted July 20, 2016"
         }
       ]
     }
